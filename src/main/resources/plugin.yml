@@ -1,0 +1,14 @@
+name: NoColonCommands
+version: '${project.version}'
+main: ru.myp3.nocoloncommands.NoColonCommands
+api-version: '1.20'
+authors: [Myp3xx]
+description: '${project.description}'
+commands:
+  ncc:
+    description: Reloads configuration file.
+    usage: /ncc reload
+permissions:
+  nocoloncommands.reload:
+    description: Allows players to use the /ncc reload command.
+    default: op

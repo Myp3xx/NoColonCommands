@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nocoloncommands:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nocoloncommands_jar</output-path>
+    <root id="archive" name="nocoloncommands.jar">
+      <element id="module-output" name="nocoloncommands" />
+    </root>
+  </artifact>
+</component>

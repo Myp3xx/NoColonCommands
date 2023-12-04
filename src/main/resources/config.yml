@@ -1,0 +1,6 @@
+message:
+  blocked: '§cCommands with ":" are not allowed!'
+  reload: "§aPlugin reloaded!"
+  no_permission: "§cYou don't have permissions to use this command."
+  ncc_info: "§bNoColonCommands v1.0 by Myp3xx"
+  no_subcommand: "§cUnknown subcommand.§7 If you want to reload plugin, run §f/ncc reload§7."
